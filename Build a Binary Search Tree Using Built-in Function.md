@@ -22,8 +22,8 @@ To write a Python program to build a binary search tree using a built-in functio
 ## PROGRAM:
 
 ```python
-#Reg.No:212222060013
-#Name: AKSHAIYAN S
+#Reg.No:212222060252
+#Name: SREE DHARMA A V
 
 from binarytree import Node
 def _build_bst_from_sorted_values(sorted_values):
