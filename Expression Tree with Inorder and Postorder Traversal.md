@@ -19,8 +19,8 @@ To write a Python program to build the given expression tree and print the inord
 ## PROGRAM:
 
 ```python
-#Reg.no:212222060252
-#Name: SREE DHARMA A V
+#Reg.no:212222060262
+#Name: SUJAN S B
 
 from binarytree import build,Node
 x=['*',4,'-',5,'+',2,7]
