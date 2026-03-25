@@ -19,8 +19,8 @@ To write a Python program to build a heap tree using appropriate Python package 
 ## PROGRAM:
 
 ```python
-#Reg.no: 212222060252
-#Name: SREE DHARMA A V
+#Reg.no: 212222060262
+#Name: SUJAN S B
 
 import heapq
 def heaptree(H):
