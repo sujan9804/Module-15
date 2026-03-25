@@ -19,8 +19,8 @@ To write a Python program to build a binary tree with a root, left, and right no
 ## PYTHON PROGRAM
 
 ```python
-#Reg.no:212222060252
-#name: SREE DHARMA A V
+#Reg.no:212222060262
+#name: SUJAN S B
 
 from binarytree import Node
 l=[]
